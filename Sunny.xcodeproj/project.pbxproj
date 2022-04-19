@@ -18,6 +18,7 @@
 		CE5497572807A429008B65FF /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5497562807A429008B65FF /* Constants.swift */; };
 		CE5497592807EBC8008B65FF /* CurrentWeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5497582807EBC8008B65FF /* CurrentWeatherData.swift */; };
 		CE54975B2807FA32008B65FF /* CurrentWeather.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE54975A2807FA32008B65FF /* CurrentWeather.swift */; };
+		CE964114280E7D57000BFDA9 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = CE964113280E7D57000BFDA9 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		CE5497562807A429008B65FF /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		CE5497582807EBC8008B65FF /* CurrentWeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeatherData.swift; sourceTree = "<group>"; };
 		CE54975A2807FA32008B65FF /* CurrentWeather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeather.swift; sourceTree = "<group>"; };
+		CE964113280E7D57000BFDA9 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +52,7 @@
 		352AD2542403FA5700FE672A = {
 			isa = PBXGroup;
 			children = (
+				CE964113280E7D57000BFDA9 /* .gitignore */,
 				352AD25F2403FA5700FE672A /* Sunny */,
 				352AD25E2403FA5700FE672A /* Products */,
 			);
@@ -180,6 +183,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE964114280E7D57000BFDA9 /* .gitignore in Resources */,
 				352AD26D2403FA5800FE672A /* LaunchScreen.storyboard in Resources */,
 				352AD26A2403FA5800FE672A /* Assets.xcassets in Resources */,
 				352AD2682403FA5700FE672A /* Main.storyboard in Resources */,
