@@ -31,3 +31,6 @@ struct Weather: Decodable {
     let id : Int
     let main: String
 }
+
+
+// current weather data
