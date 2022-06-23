@@ -1,9 +1,7 @@
 //
 //  Constants.swift
 //  Sunny
-//
-//  Created by user on 14/04/22.
-//  Copyright © 2022 Ivan Akulov. All rights reserved.
+
 //
 
 import Foundation
